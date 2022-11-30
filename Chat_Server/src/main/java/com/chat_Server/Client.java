@@ -1,4 +1,4 @@
-package com.chat_fx_program;
+package com.chat_Server;
 
 import java.io.IOException;
 import java.io.InputStream;

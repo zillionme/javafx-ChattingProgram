@@ -1,4 +1,4 @@
-package com.chat_fx_program;
+package com.chat_Server;
 
 import javafx.application.Application;
 import javafx.application.Platform;

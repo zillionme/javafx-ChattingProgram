@@ -24,8 +24,8 @@ tasks.withType(JavaCompile) {
 }
 
 application {
-    mainModule = 'com.chat_fx_program'
-    mainClass = 'com.chat_fx_program.HelloApplication'
+    mainModule = 'com.chat_Server'
+    mainClass = 'com.chat_Server.Main'
 }
 
 javafx {
